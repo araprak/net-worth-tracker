@@ -2,7 +2,7 @@
 
 **A connected financial tracking system in Google Sheets, demonstrated with fictional data.**
 
-*Portfolio documentation. Scenario dated October 25, 2026; verification completed October 26, 2026. Stored in the private GitHub documentation package.*
+*Portfolio documentation. Scenario dated October 25, 2026; verification completed October 26, 2026. Available in the public GitHub showcase.*
 
 ## Project summary
 
@@ -47,4 +47,4 @@ Current-content checks do not erase Google ownership information or earlier file
 
 **[Explore the fictional tracker walkthrough](walkthrough.md)**
 
-Follow the five captured views from dashboard to spending, fiscal reporting, holdings and monthly performance. An interactive workbook link will be added only as part of a separately reviewed demo release; see [release scope](PUBLIC_RELEASE.md).
+Follow the five captured views from dashboard to spending, fiscal reporting, holdings and monthly performance. The public walkthrough is available to everyone; see [showcase contents](PUBLIC_RELEASE.md).

@@ -1,8 +1,8 @@
 # Net Worth Tracker — Fictional Portfolio Demo
 
-**Private GitHub documentation package — October 26, 2026.**
+**Public portfolio showcase — October 26, 2026.**
 
-This repository stores the reviewed case study, walkthrough, verification report and five screenshots. It does not contain the original personal workbook, a downloadable workbook, source snapshots or raw audit files. See [Public release: meaning and scope](PUBLIC_RELEASE.md) for the distinction between this private GitHub upload, public documentation and an interactive demo release.
+This repository stores the reviewed case study, walkthrough, verification report and five screenshots. It does not contain the original personal workbook, a downloadable workbook, source snapshots or raw audit files. See [Public release: meaning and scope](PUBLIC_RELEASE.md) for what this public showcase includes.
 
 A Google Sheets project that connects day-to-day transactions with cash balances, allowances, fiscal-year reporting and investment analysis. The demonstration preserves the structure of a personal tracking system while using fictional accounts, institutions, transactions, balances, securities, prices and benchmarks.
 
@@ -62,10 +62,10 @@ A $10 expense scenario propagated correctly and was restored. Five fiscal select
 
 The copied script is inert and its obsolete run button has been removed. **Google ownership information and earlier workbook/script revisions have not been erased or certified anonymous.** The detailed report explains these limits and distinguishes reviewed current contents from platform history. Five representative views were checked visually; the review does not claim individual visual inspection of every chart.
 
-The existing copied workbook's sharing settings were left unchanged at the user's request. This package was approved for GitHub upload and is stored in a private repository. A private GitHub push does not make the project accessible to the public or update the portfolio website.
+Anyone can view this repository, case study, walkthrough and screenshots without an invitation. The existing copied workbook's sharing settings and the portfolio website were left unchanged.
 
 ## Release contents
 
 The repository contains the case study, walkthrough, verification report, release-scope document and reviewed screenshots. Private source exports, prior snapshots, raw audit files, local credentials and internal working files stay outside it.
 
-An interactive workbook release and a portfolio website update are separate publication steps. A formal GitHub Release or version tag is optional and has not been created by this documentation upload.
+This public showcase is available directly from the repository. No version tag or formal GitHub Release is needed to view it.

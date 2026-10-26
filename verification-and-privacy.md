@@ -1,6 +1,6 @@
 # Verification and privacy review
 
-**Reviewed October 26, 2026. Current-content cleanup complete; documentation approved for private GitHub storage.**
+**Reviewed October 26, 2026. Current-content cleanup complete; documentation and screenshots publicly available on GitHub.**
 
 This report concerns the approved **Net Worth Tracker Public** copy. The original personal tracker was treated as strictly read-only. Its contents and permissions were not changed. The copy's existing anyone-with-link reader setting was left unchanged, as requested.
 
@@ -67,10 +67,10 @@ The screenshots were captured from the rendered workbook and cropped to workshee
 3. **Private working evidence:** earlier snapshots and exports remain outside this review package. They must not be uploaded with documentation or included in a repository.
 4. **Release scope:** this review package contains only documentation and reviewed images. A new downloadable workbook or newly published live destination requires its own final artifact review. A fresh reconstruction from audited synthetic content would avoid carrying forward this copy's earlier revisions; its new ownership/metadata would still need review.
 
-The existing copy is suitable for reviewing the fictional functionality. It should not be advertised as an anonymous, history-free file. The remaining release decision is whether to use the existing reviewed copy with these limits or prepare a fresh publication artifact before a new portfolio release.
+The existing copy is suitable for reviewing the fictional functionality. It should not be advertised as an anonymous, history-free file. The public repository presents the reviewed documentation and screenshots; it does not distribute a workbook or link to the copied file.
 
 ## Evidence and release boundary
 
 The final inspection export was re-fetched after the script-button removal. Its parsed cell formulas and values matched the prior checked export, and its privacy/package scan remained clean. Its SHA-256 is `52e33d5335e7adf79887b7527b4abc0a47f7a859a3d2d5dc223e0bf40168551f`. This hash identifies private audit evidence; the export is intentionally excluded from this package.
 
-Native readbacks, scenario-test records and inspection exports are retained locally outside this repository. The reviewed documentation and screenshots are stored in private GitHub. No formal GitHub Release, public repository, portfolio website update or new interactive workbook distribution is included in this upload. See [public release scope](PUBLIC_RELEASE.md).
+Native readbacks, scenario-test records and inspection exports are retained locally outside this repository. The reviewed documentation and screenshots are publicly available on GitHub. The repository does not include a workbook download or live workbook link, and the portfolio website was not changed. See [public showcase contents](PUBLIC_RELEASE.md).

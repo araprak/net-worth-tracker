@@ -62,7 +62,7 @@ Read the axis labels, legend and method note together. The comparison demonstrat
 - Keep the fictional-data context in every caption. Use focused images instead of shrinking the full workbook into an unreadable frame.
 - If recording a live input change, use a separately approved disposable demo copy, note the starting input, verify its dependent result and restore the fixture afterward.
 - Do not open version history or run inherited automation during the walkthrough. Current-content verification does not establish that earlier revisions or owner information were erased.
-- The [verification and privacy report](verification-and-privacy.md) records the checks and limits. This package is approved for private GitHub storage; public documentation, interactive workbook distribution and a website update are described separately in [release scope](PUBLIC_RELEASE.md).
+- The [verification and privacy report](verification-and-privacy.md) records the checks and limits. This walkthrough and its images are publicly accessible. See [showcase contents](PUBLIC_RELEASE.md) for the included materials.
 
 **Final CTA:** “Explore the fictional tracker walkthrough to see how the records, calculations and reports connect.”
 
