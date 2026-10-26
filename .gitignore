@@ -1,0 +1,15 @@
+# Private audit/source material never belongs in this documentation repository.
+private/
+**/private/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.zip
+*.gs
+*.jsonl
+.env
+.env.*
+.DS_Store
+node_modules/
+__pycache__/
